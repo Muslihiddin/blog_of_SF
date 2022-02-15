@@ -1,0 +1,99 @@
+nav {
+	margin-bottom: 25px;
+}
+
+.home_page,
+.about_page{
+	margin-bottom: 500px;
+}
+
+.post_page {
+	margin-bottom: 270px;
+}
+
+.add_page {
+	margin-bottom: 100px;
+}
+
+.favourites_list_page{
+	margin-bottom: 50px;
+}
+
+.posts_list_page {
+	margin: 20px 0 100px;
+}
+
+
+.list_hero {
+	padding: 10px 25px;
+	margin: 25px 0;
+	display: flex;
+}
+
+
+.list_image {
+	max-width: 260px;
+	border-radius: 5px;
+}
+
+.list_hero_body {
+	margin-left: 15px;
+}
+
+.list_hero_body p {
+	font-style: italic;
+}
+
+.hero_page {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 100px;
+}
+
+.hero_page_description {
+	max-width: 45%;
+	margin-right: 10px;
+}
+
+.hero_page_image img {
+	max-width: 520px;
+	border-radius: 5px;
+}
+
+.form-group {
+	margin-bottom: 25px;
+}
+
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 15px;
+	background: #2c3e50;
+	max-width: 100%;
+	width: 100%;
+	color: #ffffff;
+	min-height: 150px;
+}
+
+.mathafaka_page {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.mathafaka_page_description {
+	max-width: 45%;
+}
+
+.mathafaka_page_image img {
+	max-width: 250px;
+	border-radius: 5px;
+}
+
+.doggo img{
+	position: absolute;
+	bottom: 0;
+	max-width: 200px;
+}
